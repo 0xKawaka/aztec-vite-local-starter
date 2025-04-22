@@ -1,0 +1,16 @@
+#root {
+
+}
+
+.app-container {
+  color: #000;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-content {
+  margin-top: 20px;
+}
