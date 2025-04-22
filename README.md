@@ -1,4 +1,4 @@
-# Azttec + React + TypeScript + Vite
+# Aztec + React + TypeScript + Vite
 
 Uses polyfill package for vite.config.ts configuration.
 
